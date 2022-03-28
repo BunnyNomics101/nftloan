@@ -1,8 +1,6 @@
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-    reactStrictMode: true,
-    //todo delete
-    assetPrefix: '/',
-    basePath: '/akioalex0817.github.io'
+  reactStrictMode: true,
 }
 
-module.exports = nextConfig;
+module.exports = nextConfig
